@@ -1,0 +1,26 @@
+# From https://github.com/github/gitignore/blob/master/Global/VirtualEnv.gitignore
+.Python
+[Ii]nclude
+#[Ll]ib
+[Ll]ib64
+[Ll]ocal
+#[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+__pycache__
+.ipynb_checkpoints/
+.DS_Store
+.idea
+.version
+.python-version
+*.ser
+output
+/.vscode
+scratch
+.pytest_cache
+*.pyc
+*egg-info
+private
+.coverage
+.mypy_cache

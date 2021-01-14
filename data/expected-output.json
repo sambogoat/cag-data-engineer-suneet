@@ -1,0 +1,164 @@
+[
+  {
+     "songName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "songDuration":120,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"With a Little Help from My Friends",
+     "songDuration":162,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Lucy in the Sky with Diamonds",
+     "songDuration":208,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Getting Better",
+     "songDuration":168,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Fixing a Hole",
+     "songDuration":156,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"She's Leaving Home",
+     "songDuration":205,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Being for the Benefit of Mr. Kite!",
+     "songDuration":157,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Within You Without You",
+     "songDuration":305,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"When I'm Sixty-Four",
+     "songDuration":157,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Lovely Rita",
+     "songDuration":162,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Good Morning Good Morning",
+     "songDuration":162,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+     "songDuration":78,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"A Day in the Life",
+     "songDuration":338,
+     "recordName":"Sgt. Pepper's Lonely Hearts Club Band",
+     "recordGenre":"ROCK",
+     "recordType":"ALBUM",
+     "recordReleaseDate":-82198800,
+     "artistName":"The Beatles"
+  },
+  {
+     "songName":"Uptown Funk",
+     "songDuration":270,
+     "recordName":"Uptown Funk",
+     "recordGenre":"DANCE",
+     "recordType":"SINGLE",
+     "recordReleaseDate":1415548800,
+     "artistName":"Bruno Mars"
+  },
+  {
+     "songName":"Facedown",
+     "songDuration":169,
+     "recordName":"Facedown",
+     "recordGenre":"POP",
+     "recordType":"EP",
+     "recordReleaseDate":1344182400,
+     "artistName":"The 1975"
+  },
+  {
+     "songName":"The City",
+     "songDuration":221,
+     "recordName":"Facedown",
+     "recordGenre":"POP",
+     "recordType":"EP",
+     "recordReleaseDate":1344182400,
+     "artistName":"The 1975"
+  },
+  {
+     "songName":"Antichrist",
+     "songDuration":283,
+     "recordName":"Facedown",
+     "recordGenre":"POP",
+     "recordType":"EP",
+     "recordReleaseDate":1344182400,
+     "artistName":"The 1975"
+  },
+  {
+     "songName":"Woman",
+     "songDuration":182,
+     "recordName":"Facedown",
+     "recordGenre":"POP",
+     "recordType":"EP",
+     "recordReleaseDate":1344182400,
+     "artistName":"The 1975"
+  }
+]

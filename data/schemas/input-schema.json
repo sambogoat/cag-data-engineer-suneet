@@ -1,0 +1,67 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Input Schema",
+    "description": "",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "record": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "genre": {
+                        "type": "string"
+                    },
+                    "release_date": {
+                        "type": "string",
+                        "format": "date",
+                        "example": "2017-07-21"
+                    }
+                },
+                "required": [
+                    "name",
+                    "genre",
+                    "release_date"
+                ]
+            },
+            "songs": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "name": {
+                            "type": "string"
+                        },
+                        "duration": {
+                            "type": "string",
+                            "example": "3:14"
+                        }
+                    },
+                    "required": [
+                        "duration",
+                        "name"
+                    ]
+                }
+            },
+            "artist": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "name"
+                ]
+            }
+        },
+        "required": [
+            "record",
+            "songs",
+            "artist"
+        ]
+    }
+}

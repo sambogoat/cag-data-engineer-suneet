@@ -1,0 +1,186 @@
+[
+  {
+    "record": {
+      "name": "Sgt. Pepper's Lonely Hearts Club Band",
+      "genre": "ROCK",
+      "release_date": "1967-05-26"
+    },
+    "songs": [
+      {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "duration": "2:00"
+      },
+      {
+        "name": "With a Little Help from My Friends",
+        "duration": "2:42"
+      },
+      {
+        "name": "Lucy in the Sky with Diamonds",
+        "duration": "3:28"
+      },
+      {
+        "name": "Getting Better",
+        "duration": "2:48"
+      },
+      {
+        "name": "Fixing a Hole",
+        "duration": "2:36"
+      },
+      {
+        "name": "She's Leaving Home",
+        "duration": "3:25"
+      },
+      {
+        "name": "Being for the Benefit of Mr. Kite!",
+        "duration": "2:37"
+      },
+      {
+        "name": "Within You Without You",
+        "duration": "5:05"
+      },
+      {
+        "name": "When I'm Sixty-Four",
+        "duration": "2:37"
+      },
+      {
+        "name": "Lovely Rita",
+        "duration": "2:42"
+      },
+      {
+        "name": "Good Morning Good Morning",
+        "duration": "2:42"
+      },
+      {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+        "duration": "1:18"
+      },
+      {
+        "name": "A Day in the Life",
+        "duration": "5:38"
+      }
+    ],
+    "artist": {
+      "name": "The Beatles"
+    }
+  },
+  {
+    "record": {
+      "name": "Uptown Funk",
+      "genre": "DANCE",
+      "release_date": "2014-11-10"
+    },
+    "songs": [
+      {
+        "name": "Uptown Funk",
+        "duration": "4:30"
+      }
+    ],
+    "artist": {
+      "name": "Bruno Mars"
+    }
+  },
+  {
+    "record": {
+      "name": "Facedown",
+      "genre": "POP",
+      "release_date": "2012-08-06"
+    },
+    "songs": [
+      {
+        "name": "Facedown",
+        "duration": "2:49"
+      },
+      {
+        "name": "The City",
+        "duration": "3:41"
+      },
+      {
+        "name": "Antichrist",
+        "duration": "4:43"
+      },
+      {
+        "name": "Woman",
+        "duration": "3:02"
+      }
+    ],
+    "artist": {
+      "name": "The 1975"
+    }
+  },
+  {
+    "record": {
+      "name": "Interstellar",
+      "genre": "SOUNDTRACK",
+      "release_date": "2014-11-17"
+    },
+    "songs": [
+      {
+        "name": "Dreaming of the Crash",
+        "duration": "3:55"
+      },
+      {
+        "name": "Cornfield Chase",
+        "duration": "2:06"
+      },
+      {
+        "name": "Dust",
+        "duration": "5:41"
+      },
+      {
+        "name": "Day One",
+        "duration": "3:19"
+      },
+      {
+        "name": "Stay",
+        "duration": "6:52"
+      },
+      {
+        "name": "Message from Home",
+        "duration": "1:40"
+      },
+      {
+        "name": "The Wormhole",
+        "duration": "1:30"
+      },
+      {
+        "name": "Mountains",
+        "duration": "3:39"
+      },
+      {
+        "name": "Afraid of Time",
+        "duration": "2:32"
+      },
+      {
+        "name": "A Place Among the Stars",
+        "duration": "3:27"
+      },
+      {
+        "name": "Running Out",
+        "duration": "1:57"
+      },
+      {
+        "name": "I'm Going Home",
+        "duration": "5:48"
+      },
+      {
+        "name": "Coward",
+        "duration": "8:26"
+      },
+      {
+        "name": "Detach",
+        "duration": "6:42"
+      },
+      {
+        "name": "S.T.A.Y.",
+        "duration": "6:23"
+      },
+      {
+        "name": "Where We're Going",
+        "duration": "7:41"
+      }
+    ],
+    "artist": {
+      "name": "Hans Zimmer"
+    }
+  }
+]
